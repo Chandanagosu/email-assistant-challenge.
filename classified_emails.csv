@@ -1,0 +1,3 @@
+sender,subject,body,sent_date,sentiment,priority
+customer1@example.com,Need help with login,I cannot access my account. Please fix immediately!,2025-09-01,NEGATIVE,Urgent
+customer2@example.com,Query about pricing,Can you explain your subscription plans?,2025-09-02,NEGATIVE,Not Urgent
